@@ -21,8 +21,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "home_default"
-#define WLAN_PASS       "356235623562356200"
+#define WLAN_SSID       "XXXX"
+#define WLAN_PASS       "XXXX"
 
 /************************* Adafruit.io Setup *********************************/
 
