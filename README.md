@@ -2,8 +2,8 @@
 
 To run this download libraries in arduino:
 
-Adafruit MQTT library 
-Adafruit IO Arduino
+Adafruit MQTT library, 
+Adafruit IO Arduino,
 ArduinoHttpClient 
 
 Dont forget to add esp board in ardino prefences and board manager.
